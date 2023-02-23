@@ -1,0 +1,80 @@
+.title {
+  font-family: Roboto;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 22px;
+}
+
+a {
+  color: aliceblue;
+}
+
+body {
+  text-align: center;
+}
+
+body {
+  margin: auto;
+  width: 700px;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 14px;
+  color: rgb(80, 80, 80);
+  line-height: 18px;
+
+}
+
+.info {
+  margin-bottom: 30px;
+  font-family: Roboto;
+  font-size: 20px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration: underline;
+}
+
+.minzy {
+  background-color: rgba(78, 205, 0, 0.87);
+  color: white;
+  border: none;
+  height: 37px;
+  width: 90px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.accd {
+  background-color: rgb(252, 70, 0);
+  color: white;
+  border: none;
+  height: 37px;
+  width: 90px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.vxd1 {
+  background-color: rgb(0, 102, 245);
+  color: white;
+  border: none;
+  height: 37px;
+  width: 90px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.map {
+  width: 700px;
+}
+
